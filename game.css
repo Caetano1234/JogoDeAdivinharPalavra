@@ -1,0 +1,52 @@
+body
+{
+	background: lightblue;
+	text-align: center;
+}
+
+.login_div
+{
+	margin: auto;
+	background: white;
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+	margin-bottom: 30px;
+}
+
+.aviso{
+	color:red;
+	font-size: 20px;
+}
+
+#player1Name , #player2Name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#wordDisplay
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+#loginButton{
+	font-size: 20px;
+	cursor: pointer;
+	width: 30%;
+	background-color: dodgerblue;
+	color: white;
+	border-radius: 10px;
+}
